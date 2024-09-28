@@ -21,7 +21,7 @@ Before you begin, make sure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone 
+   git clone https://github.com/Asadalvi007/python_rest_apis.git
    cd DJANGOAPI
 2. **Set up a virtual environment**:
    ```
